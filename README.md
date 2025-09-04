@@ -81,7 +81,7 @@ python project_tracker.py
 ## Note / Notes
 
 * Funziona su Windows. Su Linux/macOS il monitor dei processi potrebbe richiedere adattamenti / Works on Windows. On Linux/macOS the process monitoring may require adjustments.
-* Per rendere l’eseguibile portatile, includi `project_time_log.json` nella stessa cartella dell’exe / To make the executable portable, include `project_time_log.json` in the same folder as the exe.
+
 
 ---
 
