@@ -87,7 +87,7 @@ python project_tracker.py
 
 ## Disclaimer / Avvertenza
 
-Questo software è fornito "così com'è", senza garanzie di alcun tipo. L'utente utilizza il programma a proprio rischio. / This software is provided "as-is", without any warranty. The user uses the program at their own risk.
+Questo software è fornito "così com'è", senza garanzie di alcun tipo. / This software is provided "as-is", without any warranty. 
 
 ## License / Licenza
 
